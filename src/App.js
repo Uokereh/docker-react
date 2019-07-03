@@ -10,7 +10,7 @@ function App() {
         <p>
           Hi there, my name Ujuchris Chukwuebuka Ben Israel!
           <p>
-          Making a lot of changes in my life.
+          Making a lot of changes in my life, new me.
           </p>
         </p>
         <a
